@@ -1,0 +1,14 @@
+{
+  "name": "url-parser",
+  "version": "1.0.0",
+  "description": "Parse URLs with Node.js",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rgk/url-parser.git"
+  },
+  "author": "rgk",
+  "homepage": "https://github.com/rgk/url-parser",
+  "license": "GPL-3.0-or-later"
+}
